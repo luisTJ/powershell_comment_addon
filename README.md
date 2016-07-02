@@ -5,4 +5,5 @@ the code is taken from http://blog.danskingdom.com/powershell-ise-multiline-comm
 
 but modify shotcut key to 
 Comment:   Ctrl + / 
+
 Uncomment: Ctrl + Shift /
