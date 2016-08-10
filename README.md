@@ -11,5 +11,5 @@ Uncomment: Ctrl + Shift /
 
 #Installation
 1. Open Windows PowerShell ISE (not Windows PowerShell, as we want to edit the ISE profile instead of the regular PowerShell profile).
-2. In the Command window type: psedit $profile
+2. In the Command window type: psedit $profile (if error use `New-Item $profile –ItemType File –Force`) this will create a file in {user}\Documents\WindowsPowerShell\Microsoft.PowerShellISE_profile.ps1
 3. paste the code
